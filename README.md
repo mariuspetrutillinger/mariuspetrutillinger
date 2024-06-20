@@ -2,7 +2,7 @@
   Hi there! 🖖
 </h1>
 
-+ I am Marius, a 3rd year Computer Science student at the __University of Bucharest__ with a passion for __web development__ and __machine learning__.
++ I am Marius, a Computer Science student at the __University of Bucharest__ with a passion for __web development__ and __software engineering__.
 
 + I am very __passionate__ about my work and I am __eager__ to learn more in the realm of programming and computer science as a whole as there is always room for more and better.
 
